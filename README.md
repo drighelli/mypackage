@@ -5,4 +5,4 @@ development taken at the Department of Statistical Sciences of the University
 of Padova as a special course of the PhD in Statistics cycle XXXVIII.
 
 * The presentation can be retrieved in the `inst/references` folder
-* The registration can be found at ...
+* The registration of the presentation can be found at https://youtu.be/jacmyFIWbBI
