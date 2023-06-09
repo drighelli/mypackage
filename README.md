@@ -5,5 +5,5 @@ special course on R package development taken at the
 Department of Statistical Sciences of the University
 of Padova for the PhD course in Statistics cycle XXXVIII.
 
-* Slides can be retrieved in the `inst/references` folder
+* Slides can be retrieved in the `inst/references` folder (https://github.com/drighelli/mypackage/blob/master/inst/references/presentation.pdf)[here]
 * Registration of the seminar can be found at https://youtu.be/yLPcKVbnTd0
